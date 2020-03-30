@@ -9,7 +9,7 @@
         android:id="@+id/action_search"
         android:enabled="true"
         android:icon="@drawable/ic_search"
-        android:title="@string/search" />
+        android:title="@string/home" />
     <item
         android:id="@+id/action_photo"
         android:enabled="true"
