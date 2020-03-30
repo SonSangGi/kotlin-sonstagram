@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577652423363",
+    "firebase_url": "https://sonstagram-5779f.firebaseio.com",
+    "project_id": "sonstagram-5779f",
+    "storage_bucket": "sonstagram-5779f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577652423363:android:13f424f3eafb0ced058076",
+        "android_client_info": {
+          "package_name": "dev.sanggi.sonstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577652423363-g2emvthmrjc24bppjhdm8rvvr9qo8mb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.sanggi.sonstagram",
+            "certificate_hash": "b3b31d5bfaddf03791b7474fbd8fed3e8a0b729d"
+          }
+        },
+        {
+          "client_id": "577652423363-8tik6714a7p2svv0t003uutrck6863ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePgyijSfVanevLhgydRd-1gUqWWHuHeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577652423363-8tik6714a7p2svv0t003uutrck6863ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
