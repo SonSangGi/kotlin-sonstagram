@@ -1,4 +1,4 @@
-package dev.sanggi.sonstagram.model
+package dev.sanggi.sonstagram.navigation.model
 
 data class ContentDTO(
     var explain: String? = null,
